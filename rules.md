@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-May 2nd, 2022.
+May 9th, 2022.
 
 ## Additional Rules
 1. If I code for school, that time won't count towards the challenge.
